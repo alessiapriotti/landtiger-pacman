@@ -1,7 +1,7 @@
 # Pac-Man on LandTiger LPC1768 board
 
 Embedded implementation of Pac-Man for the NXP LPC1768 microcontroller,
-developed in C with Keil µVision as part of the "Computer Architectures" course at Politecnico di Torino.
+developed in C with Keil µVision as part of the "Computer Architectures" course of the MSc in Computer Engineering at Politecnico di Torino.
 
 ## Features
 - GLCD rendering: maze, Pac-Man, ghost, score and lives
